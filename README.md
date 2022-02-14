@@ -2,7 +2,7 @@
 
 ### [My portfolio](https://donatso.github.io/portfolio)
 
-- 🔭 I’m currently working on [datafull-dashboard](https://github.com/donatso/datafull/tree/master/dashboard)
+- 🔭 I’m currently working on [datafull library](https://donatso.github.io/datafull/examples)
 - 🌱 I’m currently learning Elixir
 - 👯 I’m looking to collaborate on data visualization projects
 - 🤔 I’m looking for help with ideas for [datafull-dashboard](https://github.com/donatso/datafull/tree/master/dashboard)
